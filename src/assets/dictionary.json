@@ -1,0 +1,20 @@
+{
+  "en": {
+    "translation": {
+      "hello": "Hello",
+      "bey": "Bey"
+    }
+  },
+  "ru": {
+    "translation": {
+      "hello": "Privet",
+      "bey": "Poka"
+    }
+  },
+  "uz": {
+    "translation": {
+      "hello": "Salom",
+      "bey": "Xayr"
+    }
+  }
+}
