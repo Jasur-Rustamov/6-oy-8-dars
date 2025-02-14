@@ -2,19 +2,17 @@
   "en": {
     "translation": {
       "hello": "Hello",
-      "bey": "Bey"
+      "how": "how",
+      "are": "are",
+      "you": "you"
     }
   },
   "ru": {
     "translation": {
       "hello": "Privet",
-      "bey": "Poka"
-    }
-  },
-  "uz": {
-    "translation": {
-      "hello": "Salom",
-      "bey": "Xayr"
+      "how": "kak",
+      "are": "tvoi",
+      "you": "dela"
     }
   }
 }
